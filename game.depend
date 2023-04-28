@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1572088531 source:c:\users\sebi\desktop\game\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+

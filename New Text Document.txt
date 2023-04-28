@@ -1,0 +1,2 @@
+-pe nivele labirindul - 3
+-hanoi pe 4
